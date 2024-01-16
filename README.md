@@ -34,12 +34,12 @@ I designed an interactive Power BI dashboard that provides a user-friendly inter
 To explore the project, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Review the SQL scripts for data analysis in the `sql query` folder.
+2. Review the SQL scripts for data analysis in the `SQLQuery Pizza Poject.sql` folder.
 3. Open the Power BI dashboard to interact with the data.
 
 ## Folder Structure
 
-- `sql query/`: Contains SQL scripts for data analysis.
+- `SQLQuery Pizza Poject.sql/`: Contains SQL scripts for data analysis.
 - `Pizza Visualization/`: Includes Power BI dashboard files.
 
 ## Tools and Technologies
