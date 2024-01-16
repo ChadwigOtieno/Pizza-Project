@@ -23,7 +23,7 @@ For detailed analysis and SQL queries, please refer to the SQL scripts provided 
 
 ## Data Visualization
 
-I created visualizations to represent the insights gained from the data analysis. The visualizations are available in the `visualizations` folder.
+I created visualizations to represent the insights gained from the data analysis. The visualizations are available in the `Pizza visualizations` folder.
 
 ## Dashboard
 
@@ -40,7 +40,7 @@ To explore the project, follow these steps:
 ## Folder Structure
 
 - `sql query/`: Contains SQL scripts for data analysis.
-- `Pizza Project Visualization/`: Includes Power BI dashboard files.
+- `Pizza Visualization/`: Includes Power BI dashboard files.
 
 ## Tools and Technologies
 
